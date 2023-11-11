@@ -1,0 +1,20 @@
+{
+	"name": "citatron_2000",
+	"version": "1.0.0",
+	"type": "commonjs",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"puppeteer": "^21.1.1",
+		"puppeteer-extra": "^3.3.6",
+		"puppeteer-extra-plugin-recaptcha": "^3.6.8",
+		"puppeteer-extra-plugin-stealth": "^2.11.2"
+	}
+}
